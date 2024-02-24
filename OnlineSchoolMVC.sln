@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSchoolDomain", "OnlineSchoolDomain\OnlineSchoolDomain.csproj", "{0656F243-3587-4FE6-8681-033A72C40818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSchoolInfrastructure", "OnlineSchoolInfrastructure\OnlineSchoolInfrastructure.csproj", "{3F859A5E-25C5-49E5-A5B2-347E9DADB39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0656F243-3587-4FE6-8681-033A72C40818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0656F243-3587-4FE6-8681-033A72C40818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0656F243-3587-4FE6-8681-033A72C40818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0656F243-3587-4FE6-8681-033A72C40818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F859A5E-25C5-49E5-A5B2-347E9DADB39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F859A5E-25C5-49E5-A5B2-347E9DADB39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F859A5E-25C5-49E5-A5B2-347E9DADB39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F859A5E-25C5-49E5-A5B2-347E9DADB39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8EEAEE-188E-40B8-84E1-99600206A7CF}
+	EndGlobalSection
+EndGlobal
